@@ -6,16 +6,16 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aljogabot) 
 
-# 💻 Tech Stack:
+## Tech Stack
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=js,ts,python)
+![Languages](https://skillicons.dev/icons?i=js,ts,python,php)
 
 ### Frontend
 ![Frontend](https://skillicons.dev/icons?i=react,electron,html,css)
 
 ### Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,fastify,django,graphql)
+![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,fastify,django,laravel,graphql)
 
 ### Databases & Messaging
 ![Databases and Messaging](https://skillicons.dev/icons?i=mysql,redis,rabbitmq)
