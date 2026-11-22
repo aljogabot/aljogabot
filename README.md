@@ -15,7 +15,7 @@
 ![Frontend](https://skillicons.dev/icons?i=react,electron,html,css)
 
 ### Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,fastify,django,laravel,graphql)
+![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,fastify,django,graphql)
 
 ### Databases & Messaging
 ![Databases and Messaging](https://skillicons.dev/icons?i=mysql,redis,rabbitmq)
